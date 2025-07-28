@@ -1,2 +1,4 @@
 # isabellavaz.github.io
-GEOG 458
+
+
+Personal professional website written for assignment in GEOG 458: Advanced Digital Geographies
